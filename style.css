@@ -1,0 +1,20 @@
+
+html, body, header, h1 {
+	margin: 0;
+}
+
+header {
+	height: 100px;
+	background-color: blue;
+	color: white;
+}
+
+h1 {
+	padding-top: 28px;
+	padding-left: 20px;
+}
+
+article {
+	border: 10px solid black;
+	padding: 10px;
+}
